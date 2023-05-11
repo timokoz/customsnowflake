@@ -1,4 +1,4 @@
-# customsnowflakecss
+# customsnowflakeweb
 should work eventually
 
 ## how 2 use
